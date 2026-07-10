@@ -1,5 +1,24 @@
 # river-pollution-in-india
 
+**Tools:** Python | PostgreSQL | Power BI | Excel
+**Domain:** Environment | HR Analytics
+
+## Problem Statement
+How polluted are rivers in India?
+What are the WQS(water quality score) of each rivers in the dataset, and the priority for cleaning them?
+
+## Dataset
+813 Readings | 209 Monitoring Stations | 38 Rivers | 17 States
+Source: National Water Monitoring Programme (NWMP) — Water Quality, Pollution Trends & 
+Cleanup Prioritisation, 2015–2024
+
+## What I did
+1. Cleaned and validated data (0 nulls, 0 duplicates)
+2. Wrote 50+ SQL queries across 10 categories
+3. Ran Python EDA — correlation heatmaps, segmentation
+4. Built 3-page Power BI dashboard
+
+
  "Dataset not included due to size. Original data available on request."
 
  [NWMP_full.sql](https://github.com/user-attachments/files/29882842/NWMP_full.sql)
